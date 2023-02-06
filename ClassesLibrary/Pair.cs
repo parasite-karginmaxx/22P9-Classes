@@ -4,21 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassesLibrary
+namespace ClassesLibrary;
+
+internal class Pair
 {
-    internal class Pair
+    private DateTime start;
+    private DateTime end;
+    private DateTime breakStart;
+    private DateTime breakEnd;
+    private Shift shift;
+    public Pair(DateTime start, DateTime end, DateTime breakStart, DateTime breakEnd)
     {
-        private DateTime start;
-        private DateTime end;
-        private DateTime breakStart;
-        private DateTime breakEnd;
-        //ссылка на Смену
-        public Pair(DateTime start, DateTime end, DateTime breakStart, DateTime breakEnd)
-        {
-            this.start = start;
-            this.end = end;
-            this.breakStart = breakStart;
-            this.breakEnd = breakEnd;
-        }
+        this.start = start;
+        this.end = end;
+        this.breakStart = breakStart;
+        this.breakEnd = breakEnd;
+        shift = new Shift();
     }
 }
