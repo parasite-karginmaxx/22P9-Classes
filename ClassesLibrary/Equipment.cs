@@ -6,7 +6,7 @@
         public decimal cost;
         public DateTime balance;
 
-        public Equipment(string name, DateTime balance = DateTime.Today())
+        public Equipment(string name, decimal cost, DateTime balance = DateTime.Today())
         {
             this.name = name;
             this.cost = cost;
