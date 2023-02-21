@@ -1,0 +1,5 @@
+C:\Users\Nikita\source\repos\MySelfClass\MySelfClass\obj\Debug\net7.0\MySelfClass.csproj.AssemblyReference.cache
+C:\Users\Nikita\source\repos\MySelfClass\MySelfClass\obj\Debug\net7.0\MySelfClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\source\repos\MySelfClass\MySelfClass\obj\Debug\net7.0\MySelfClass.AssemblyInfoInputs.cache
+C:\Users\Nikita\source\repos\MySelfClass\MySelfClass\obj\Debug\net7.0\MySelfClass.AssemblyInfo.cs
+C:\Users\Nikita\source\repos\MySelfClass\MySelfClass\obj\Debug\net7.0\MySelfClass.csproj.CoreCompileInputs.cache
