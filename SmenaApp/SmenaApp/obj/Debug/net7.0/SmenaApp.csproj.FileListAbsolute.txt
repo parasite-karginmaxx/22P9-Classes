@@ -1,0 +1,15 @@
+C:\Users\111\source\repos\SmenaApp\SmenaApp\bin\Debug\net7.0\SmenaApp.exe
+C:\Users\111\source\repos\SmenaApp\SmenaApp\bin\Debug\net7.0\SmenaApp.deps.json
+C:\Users\111\source\repos\SmenaApp\SmenaApp\bin\Debug\net7.0\SmenaApp.runtimeconfig.json
+C:\Users\111\source\repos\SmenaApp\SmenaApp\bin\Debug\net7.0\SmenaApp.dll
+C:\Users\111\source\repos\SmenaApp\SmenaApp\bin\Debug\net7.0\SmenaApp.pdb
+C:\Users\111\source\repos\SmenaApp\SmenaApp\obj\Debug\net7.0\SmenaApp.csproj.AssemblyReference.cache
+C:\Users\111\source\repos\SmenaApp\SmenaApp\obj\Debug\net7.0\SmenaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\111\source\repos\SmenaApp\SmenaApp\obj\Debug\net7.0\SmenaApp.AssemblyInfoInputs.cache
+C:\Users\111\source\repos\SmenaApp\SmenaApp\obj\Debug\net7.0\SmenaApp.AssemblyInfo.cs
+C:\Users\111\source\repos\SmenaApp\SmenaApp\obj\Debug\net7.0\SmenaApp.csproj.CoreCompileInputs.cache
+C:\Users\111\source\repos\SmenaApp\SmenaApp\obj\Debug\net7.0\SmenaApp.dll
+C:\Users\111\source\repos\SmenaApp\SmenaApp\obj\Debug\net7.0\refint\SmenaApp.dll
+C:\Users\111\source\repos\SmenaApp\SmenaApp\obj\Debug\net7.0\SmenaApp.pdb
+C:\Users\111\source\repos\SmenaApp\SmenaApp\obj\Debug\net7.0\SmenaApp.genruntimeconfig.cache
+C:\Users\111\source\repos\SmenaApp\SmenaApp\obj\Debug\net7.0\ref\SmenaApp.dll
