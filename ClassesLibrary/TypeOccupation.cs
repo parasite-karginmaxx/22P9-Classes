@@ -7,7 +7,7 @@ while (true)
     Console.WriteLine("Введите имя класса:");
     switch (Console.ReadLine())
     {
-        case "Никита бездарь(шучу)":
+        case "TypeOccupation":
             Console.WriteLine(CreateTypeOccupation().Name);
             break;
         default:
